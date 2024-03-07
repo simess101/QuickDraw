@@ -1,6 +1,7 @@
 # Red Panda Samurai Reaction Game
 Second 2D Game | Reaction Based Game 
- 
+Made while following a course
+
 # Description
 Red Panda Samurai Reaction Game is a 2D reaction-based game where players take on the role of a red panda samurai. The objective of the game is to hit the space bar as soon as a red exclamation point appears on the screen. Players must react quickly to beat the AI opponent to the space bar and win the round.
 
