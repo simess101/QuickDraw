@@ -11,5 +11,10 @@
 				"Editor"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Mac",
+		"TVOS",
+		"Windows"
 	]
 }
