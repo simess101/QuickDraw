@@ -12,6 +12,8 @@ AI opponent for single-player mode
 Restart functionality after 3 seconds
 
 # How to Play:
+(Currently the files arent all loading into github so use the drive link to download the game)
+https://drive.google.com/drive/folders/19Mn6S_G3QiwzYu9VG0Ad6Ilo4EPVfOdO?usp=drive_link
 Clone the repository to your local machine.
 Go To Windows Folder
 Run the game executable.
