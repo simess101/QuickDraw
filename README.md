@@ -13,7 +13,7 @@ Restart functionality after 3 seconds
 
 # How to Play:
 Clone the repository to your local machine.
-Open the game in your preferred IDE or text editor.
+Go To Windows Folder
 Run the game executable.
 Press space bar as soon as you see the red exclamation point to win the round.
 The game will automatically restart after 3 seconds.
